@@ -1,6 +1,8 @@
 # Sourcedata_EPMRisk
 This is the full data set from Stickling and Rosenkranz, Effects of repeated social stress on risk assessment behaviors and response to diazepam in the elevated plus maze in adult male rats.  Behav Neurosci. 2025;139(2):60-73. doi:10.1037/bne0000612
+
 There is one file: Raw data.xlsx 
+
 This includes separate sheets for the following data types
 Weight gain: in grams
 Total attacks: Total number of attacks during social defeat procedures
